@@ -6,13 +6,14 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at TUB unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Multiland unless otherwise defined in this Privacy Policy.
 
 <b>Information Collection and Use</b>
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to advertising ID, IP address. The information that I request will be retained on your device and is not collected by me in any way.
 
-Link to privacy policy of third party service providers used by the app
+Link to privacy policy of third party service providers used by the app:
+
 Appodeal
 
 <b>Log Data</b>
