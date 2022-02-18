@@ -1,6 +1,6 @@
 <h1>Privacy Policy</h1>
 
-Eclispe Corporation built the SandboxMod app as an Ad Supported app. This SERVICE is provided by Eclispe Corporation at no cost and is intended for use as is.
+VobbyGames built the SandboxMod app as an Ad Supported app. This SERVICE is provided by VobbyGames at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
