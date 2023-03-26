@@ -7,6 +7,7 @@ bidmachine.io, 12440, DIRECT
 #Copy YOUR_ADMOB_APP_ID entry from your Admob dashboard
 google.com, pub-2594512922851023, DIRECT, f08c47fec0942fa0
 #Notsy
+google.com, pub-4272971530084173, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 23740, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17352, RESELLER, 0bfd66d529a55807
 uis.mobfox.com, 1729, RESELLER, 5529a3d1f59865be
